@@ -1,0 +1,49 @@
+* Org-mode learning
+  links:
+  [[http://orgmode.org/manual/][Manual]]
+  [[http://orgmode.org/guide/index.htlm][Guide]]
+
+
+** How to learn?
+   Read the Guide, if you need more detail consult the Guide.
+** Progress Tracking
+   - [X] [[http://orgmode.org/guide/Introduction.html#Introduction][Intro]]
+   - [X] Doc Structures
+   - [X] Tables
+   - [ ] Hyperlinks
+   - [ ] TODO items
+   - [ ] TAGS
+   - [ ] Properties
+   - [ ] Dates and times
+
+** Notes
+- C-c C-p
+  Previous heading.
+- C-c C-n
+  Next heading.
+- C-c C-f
+  Next heading same level.
+- C-c C-b
+  Previous heading same level.
+- C-c C-u
+  Backward to higher level heading.
+- M-S-<up>/<down>
+  Move subtree up/down (swap with previous/next subtree of same 
+- C-c C-l
+  create a link
+- C-c a t
+  Show the global TODO list. Collects the TODO items from all 
+  agenda files (see Agenda Views) into a single buffer.
+- S-M-<RET>
+  Insert a new TODO entry below the current one. 
+
+*** footnote
+    footnote example[fn:1] sda
+
+    [fn:1] this is the footnote text
+
+
+
+  
+* Edited the unity bar
+  [[http://ubuntuforums.org/showthread.php%3Ft%3D1734534	][http://ubuntuforums.org/showthread.php?t=1734534	]]
